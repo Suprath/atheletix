@@ -13,11 +13,13 @@ Atheltix is a simple **eCommerce clothing store** built using **Vite** and **Sup
 ```sh
 git clone https://github.com/Suprath/atheletix.git
 cd project
-
+```
 ## 📌 Setup & Installation  
+```sh
 npm install
+```
 
-### Configure your env
+## Configure your env
 - VITE_SUPABASE_ANON_KEY=your_anon_key
 - VITE_SUPABASE_URL=your_supabase_url
 
